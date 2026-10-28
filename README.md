@@ -18,7 +18,7 @@
 ## 效果预览
 
 <p align="center">
-  <img src="docs/preview_text_select.png" width="480" alt="选词对比" />
+  <img src="docs/preview_text_select.png" width="480" alt="文本选择对比" />
 </p>
 
 <p align="center">
