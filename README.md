@@ -1,5 +1,6 @@
 # HyperSelect
 
+[![Telegram](https://img.shields.io/badge/Telegram-更新频道-2CA5E0?style=flat-square&logo=telegram)](https://t.me/HyperSelect_dev)
 
 
 适用于小米澎湃系统（Xiaomi HyperOS）的文本选择菜单、系统分享与打开方式定制模块。
